@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "pruebaParcial",
+    "slug": "pruebaParcial",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/photo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.alexis0122.pruebaParcial"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5b67a691-b090-4b7b-a370-3c05b931f679"
+      }
+    }
+  }
+}
